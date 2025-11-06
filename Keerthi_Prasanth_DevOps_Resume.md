@@ -33,5 +33,4 @@ AWS (EC2, S3, VPC, RDS, IAM, EKS, Route53, CloudWatch) • Azure (AKS) • Jenki
 ## EDUCATION
 **B.Tech, 2024** — Anil Neerukonda Institute of Technology & Sciences, Visakhapatnam
 
-## CERTIFICATIONS (optional to add if you have them)
-AWS Certified Developer/Architect • CKA/CKAD • Terraform Associate
+
